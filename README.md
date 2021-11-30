@@ -26,7 +26,7 @@ As you're using GitHub Docs, you may find something in an article that you'd lik
 
 If you've found a problem, you can open an issue using a [template](https://github.com/github/docs/issues/new/choose).
 
-#### Solve an issue
+#### otp Solve an issue
 
 If you have a solution to one of the open issues, you will need to fork the repository and submit a pull request using the [template](https://github.com/github/docs/blob/main/CONTRIBUTING.md#pull-request-template) that is visible automatically in the pull request body. For more details about this process, please check out [Getting Started with Contributing](/CONTRIBUTING.md).
 
